@@ -11,4 +11,4 @@ weak passwords are one of the biggest cybersecurity risks. this small tool helps
 
 #how to use
 clone this repo:
-'''bash git clone https://github.com/ashmit/password -strength-checker.git
+'''bash git clone https://github.com/ashukrishna44-wq/PASSWORD-STRENGTH-CHECKER
